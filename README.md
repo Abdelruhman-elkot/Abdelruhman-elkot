@@ -1,6 +1,7 @@
 # Hi 👋, I'm Abdulrahman Ibrahim Kot  
 
 > *"Believer in the power of code to transform ideas into reality. 🚀"*
+> 
 > ⚡ **Fun fact:** I solve coding problems in my dreams!  
 
 ### 💻 **About Me**  
@@ -30,3 +31,5 @@
 ### 📫 **Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ibrahim-kot-a82099215/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](3bdo3lkot@gmail.com) 
+
+> ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Abdelruhman-elkot.Abdelruhman-elkot)  
