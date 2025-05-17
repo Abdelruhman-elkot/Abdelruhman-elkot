@@ -23,14 +23,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🌟 **Featured Projects**  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Abdelruhman-elkot&repo=your-repo-1&theme=merko)](https://github.com/Abdelruhman-elkot/IA_System)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Abdelruhman-elkot&repo=your-repo-2&theme=merko)](https://github.com/Abdelruhman-elkot/User_Manager_Program)  
-
 ### 📊 **GitHub Analytics**  
 ![Abdulrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelruhman-elkot&show_icons=true&theme=radical)  
-
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Abdelruhman-elkot&show_icons=true&theme=merko) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelruhman-elkot&layout=compact&theme=merko) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelruhman-elkot&layout=compact&theme=radical) |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 
 ### 📫 **Let's Connect**  
