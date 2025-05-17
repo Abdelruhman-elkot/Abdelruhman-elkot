@@ -25,8 +25,7 @@
 
 ### 📊 **GitHub Analytics**  
 ![Abdulrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelruhman-elkot&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelruhman-elkot&layout=compact&theme=radical) |
-|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelruhman-elkot&layout=compact&theme=radical) 
 
 ### 📫 **Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ibrahim-kot-a82099215/)  
