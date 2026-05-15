@@ -29,7 +29,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelruhman-elkot&layout=compact&theme=radical) 
 
 ### 📫 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ibrahim-kot-a82099215/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelruhman-elkot/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](3bdo3lkot@gmail.com) 
 
 > ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Abdelruhman-elkot.Abdelruhman-elkot)  
