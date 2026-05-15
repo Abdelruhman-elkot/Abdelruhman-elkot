@@ -7,7 +7,7 @@
 ### 💻 **About Me**  
 - 🎓 **Software Engineering Student**  
 - 💡 **Backend Developer** | Crafting scalable systems  
-- 🌍 **Coding Instructor** | Empowering future devs  
+- 🌍 **Team Lead and Coding Instructor** | Empowering future devs  
 - 📚 **Currently learning:** Advanced .NET Core & Cloud Architecture  
 
 ### 🛠 **Tech Stack**  
